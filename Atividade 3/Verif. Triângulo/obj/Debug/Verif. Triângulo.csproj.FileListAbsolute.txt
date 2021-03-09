@@ -1,0 +1,10 @@
+C:\Users\adrcs\source\repos\Verif. Triângulo\obj\Debug\Verif. Triângulo.csprojAssemblyReference.cache
+C:\Users\adrcs\source\repos\Verif. Triângulo\obj\Debug\Verif.Triângulo.Form1.resources
+C:\Users\adrcs\source\repos\Verif. Triângulo\obj\Debug\Verif.Triângulo.Properties.Resources.resources
+C:\Users\adrcs\source\repos\Verif. Triângulo\obj\Debug\Verif. Triângulo.csproj.GenerateResource.cache
+C:\Users\adrcs\source\repos\Verif. Triângulo\obj\Debug\Verif. Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\adrcs\source\repos\Verif. Triângulo\bin\Debug\Verif.Triângulo.exe.config
+C:\Users\adrcs\source\repos\Verif. Triângulo\bin\Debug\Verif.Triângulo.exe
+C:\Users\adrcs\source\repos\Verif. Triângulo\bin\Debug\Verif.Triângulo.pdb
+C:\Users\adrcs\source\repos\Verif. Triângulo\obj\Debug\Verif.Triângulo.exe
+C:\Users\adrcs\source\repos\Verif. Triângulo\obj\Debug\Verif.Triângulo.pdb
