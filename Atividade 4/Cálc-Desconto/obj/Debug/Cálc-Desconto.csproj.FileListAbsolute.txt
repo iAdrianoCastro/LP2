@@ -1,0 +1,10 @@
+C:\Users\adrcs\source\repos\Cálc-Desconto\obj\Debug\Cálc-Desconto.csprojAssemblyReference.cache
+C:\Users\adrcs\source\repos\Cálc-Desconto\obj\Debug\Cálc_Desconto.Form1.resources
+C:\Users\adrcs\source\repos\Cálc-Desconto\obj\Debug\Cálc_Desconto.Properties.Resources.resources
+C:\Users\adrcs\source\repos\Cálc-Desconto\obj\Debug\Cálc-Desconto.csproj.GenerateResource.cache
+C:\Users\adrcs\source\repos\Cálc-Desconto\obj\Debug\Cálc-Desconto.csproj.CoreCompileInputs.cache
+C:\Users\adrcs\source\repos\Cálc-Desconto\bin\Debug\Cálc-Desconto.exe.config
+C:\Users\adrcs\source\repos\Cálc-Desconto\bin\Debug\Cálc-Desconto.exe
+C:\Users\adrcs\source\repos\Cálc-Desconto\bin\Debug\Cálc-Desconto.pdb
+C:\Users\adrcs\source\repos\Cálc-Desconto\obj\Debug\Cálc-Desconto.exe
+C:\Users\adrcs\source\repos\Cálc-Desconto\obj\Debug\Cálc-Desconto.pdb
