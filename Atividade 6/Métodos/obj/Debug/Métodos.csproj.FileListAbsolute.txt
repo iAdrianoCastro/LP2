@@ -1,0 +1,14 @@
+C:\Users\adrcs\source\repos\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\adrcs\source\repos\Métodos\bin\Debug\Métodos.exe
+C:\Users\adrcs\source\repos\Métodos\bin\Debug\Métodos.pdb
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.csprojAssemblyReference.cache
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.frmPrincipal.resources
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.Properties.Resources.resources
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.csproj.GenerateResource.cache
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.csproj.CoreCompileInputs.cache
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.exe
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.pdb
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.frmExercício2.resources
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.frmExercício3.resources
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.frmExercício4.resources
+C:\Users\adrcs\source\repos\Métodos\obj\Debug\Métodos.frmExercício5.resources
