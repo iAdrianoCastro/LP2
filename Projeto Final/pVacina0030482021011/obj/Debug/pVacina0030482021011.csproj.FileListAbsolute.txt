@@ -1,0 +1,12 @@
+C:\Users\adrcs\source\repos\pVacina0030482021011\bin\Debug\pVacina0030482021011.exe.config
+C:\Users\adrcs\source\repos\pVacina0030482021011\bin\Debug\pVacina0030482021011.exe
+C:\Users\adrcs\source\repos\pVacina0030482021011\bin\Debug\pVacina0030482021011.pdb
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.csprojAssemblyReference.cache
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.frmPrincipal.resources
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.Properties.Resources.resources
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.csproj.GenerateResource.cache
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.csproj.CoreCompileInputs.cache
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.exe
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.pdb
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.frmVacina.resources
+C:\Users\adrcs\source\repos\pVacina0030482021011\obj\Debug\pVacina0030482021011.Sobre.resources
